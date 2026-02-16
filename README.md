@@ -1,4 +1,3 @@
-## Hi there 👋
 ## 👋 Hi, I'm Cengizhan
 
 🧠 System-oriented developer in the making  
@@ -10,6 +9,7 @@
 🗄️ MSSQL • MySQL  
 
 📡 I enjoy building systems that connect hardware, software, and data.
+
 
 <!--
 **cengizhanylc/cengizhanylc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
