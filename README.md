@@ -1,14 +1,77 @@
-## 👋 Hi, I'm Cengizhan
+# Hi 👋 I'm Cengizhan
 
-🧠 System-oriented developer in the making  
-🎓 Management Information Systems Engineering | 1st year  
+I'm a **Information Systems Engineering student** interested in backend systems, APIs, server technologies and artificial intelligence.
 
-⚙️ ESP32 • IoT • Embedded Systems  
-💻 C# (.NET) • Python • C / C++  
-🌐 HTML • CSS • JavaScript  
-🗄️ MSSQL • MySQL  
+I enjoy building systems where **devices, servers and data work together**.
 
-📡 I enjoy building systems that connect hardware, software, and data.
+---
+
+## 🚀 About Me
+
+* 🎓 Information Systems Engineering student
+* 💻 Backend and API developer
+* 🖥 Interested in server architectures
+* 📡 Working with IoT devices
+* 🤖 Exploring artificial intelligence systems
+
+---
+
+## 🛠 Technologies & Tools
+
+Backend
+
+* .NET Web API
+* REST API design
+
+IoT / Embedded
+
+* ESP8266
+* ESP32
+
+Databases
+
+* SQL
+
+Dev Tools
+
+* Git
+* Docker
+* VS Code
+
+---
+
+## 📚 Currently Learning
+
+* scalable backend systems
+* API security and authentication
+* server architecture
+* IoT backend platforms
+* artificial intelligence applications
+
+---
+
+## 📌 Interests
+
+* Backend development
+* Server systems
+* API architecture
+* IoT platforms
+* Artificial intelligence
+
+---
+
+## 🎯 Goals
+
+* Become a strong backend engineer
+* Build scalable server systems
+* Develop intelligent IoT platforms
+
+---
+
+## 📫 Contact
+
+Feel free to explore my repositories and projects.
+
 
 
 <!--
