@@ -1,90 +1,43 @@
-# Hi 👋 I'm Cengizhan
+# Hi there! I'm Cengizhan Yalçın 👋
+### Information Systems Engineer & Backend Developer
 
-I'm a **Information Systems Engineering student** interested in backend systems, APIs, server technologies and artificial intelligence.
-
-I enjoy building systems where **devices, servers and data work together**.
-
----
-
-## 🚀 About Me
-
-* 🎓 Information Systems Engineering student
-* 💻 Backend and API developer
-* 🖥 Interested in server architectures
-* 📡 Working with IoT devices
-* 🤖 Exploring artificial intelligence systems
+I am an Information Systems Engineering student focused on designing scalable backend ecosystems, robust API architectures, and seamless IoT integrations. I specialize in bridging the gap between hardware, servers, and data orchestration.
 
 ---
 
-## 🛠 Technologies & Tools
+### 🛠️ Technical Skills & Ecosystem
 
-Backend
-
-* .NET Web API
-* REST API design
-
-IoT / Embedded
-
-* ESP8266
-* ESP32
-
-Databases
-
-* SQL
-
-Dev Tools
-
-* Git
-* Docker
-* VS Code
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Backend Architecture** | .NET Web API, C#, RESTful API Design |
+| **Databases** | SQL, Relational Database Management Systems (RDBMS) |
+| **IoT & Embedded Systems** | ESP32, ESP8266, Hardware-Server Integration |
+| **DevTools & DevOps** | Git, GitHub, Docker, VS Code |
 
 ---
 
-## 📚 Currently Learning
+### 📚 Current Focus & Learning Journey
 
-* scalable backend systems
-* API security and authentication
-* server architecture
-* IoT backend platforms
-* artificial intelligence applications
+* **Advanced Backend & Architecture:** Microservices, architectural patterns, and performance optimization.
+* **Security First:** Authentication and authorization protocols (OAuth2, JWT) and API security best practices.
+* **Intelligent Systems:** Integrating artificial intelligence and machine learning pipelines into backend and IoT workflows.
 
 ---
 
-## 📌 Interests
+### 🎯 Professional Goals
 
-* Backend development
-* Server systems
-* API architecture
-* IoT platforms
-* Artificial intelligence
+* Build resilient, production-ready server architectures.
+* Develop secure and highly maintainable API platforms.
+* Architect smart, AI-driven IoT environments.
 
 ---
 
-## 🎯 Goals
+### 📫 Connect with Me
 
-* Become a strong backend engineer
-* Build scalable server systems
-* Develop intelligent IoT platforms
+* 💼 **LinkedIn:** [linkedin.com/in/cengizhan-yalçın-83b0a83b0]
+* 📂 **Portfolio:** Feel free to explore my repositories and check out my technical work.
 
 ---
 
-## 📫 Contact
-
-Feel free to explore my repositories and projects.
-
-
-
-<!--
-**cengizhanylc/cengizhanylc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Upcoming & Ongoing Projects
+*Technical documentation and project repositories are currently being structured and will be featured here soon.*
